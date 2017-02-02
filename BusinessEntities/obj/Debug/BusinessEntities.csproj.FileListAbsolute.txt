@@ -1,5 +1,4 @@
 C:\Temp\WebAPI\BusinessEntities\bin\Debug\BusinessEntities.dll
 C:\Temp\WebAPI\BusinessEntities\bin\Debug\BusinessEntities.pdb
-C:\Temp\WebAPI\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
 C:\Temp\WebAPI\BusinessEntities\obj\Debug\BusinessEntities.dll
 C:\Temp\WebAPI\BusinessEntities\obj\Debug\BusinessEntities.pdb

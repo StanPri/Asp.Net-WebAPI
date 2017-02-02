@@ -14,6 +14,9 @@ C:\Temp\WebAPI\WebAPI\bin\WebAPI.dll.config
 C:\Temp\WebAPI\WebAPI\bin\WebAPI.dll
 C:\Temp\WebAPI\WebAPI\bin\WebAPI.pdb
 C:\Temp\WebAPI\WebAPI\bin\Antlr3.Runtime.dll
+C:\Temp\WebAPI\WebAPI\bin\AutoMapper.dll
+C:\Temp\WebAPI\WebAPI\bin\BusinessEntities.dll
+C:\Temp\WebAPI\WebAPI\bin\BusinessServices.dll
 C:\Temp\WebAPI\WebAPI\bin\EntityFramework.dll
 C:\Temp\WebAPI\WebAPI\bin\EntityFramework.SqlServer.dll
 C:\Temp\WebAPI\WebAPI\bin\Microsoft.AspNet.Identity.Core.dll
@@ -44,6 +47,10 @@ C:\Temp\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
 C:\Temp\WebAPI\WebAPI\bin\System.Web.WebPages.dll
 C:\Temp\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
 C:\Temp\WebAPI\WebAPI\bin\WebGrease.dll
+C:\Temp\WebAPI\WebAPI\bin\DataModel.dll
+C:\Temp\WebAPI\WebAPI\bin\BusinessEntities.pdb
+C:\Temp\WebAPI\WebAPI\bin\BusinessServices.pdb
+C:\Temp\WebAPI\WebAPI\bin\AutoMapper.xml
 C:\Temp\WebAPI\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Temp\WebAPI\WebAPI\bin\Newtonsoft.Json.xml
 C:\Temp\WebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
@@ -72,8 +79,7 @@ C:\Temp\WebAPI\WebAPI\bin\Microsoft.Owin.Security.Google.xml
 C:\Temp\WebAPI\WebAPI\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Temp\WebAPI\WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Temp\WebAPI\WebAPI\bin\System.Web.Http.Owin.xml
+C:\Temp\WebAPI\WebAPI\bin\DataModel.pdb
+C:\Temp\WebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
 C:\Temp\WebAPI\WebAPI\obj\Debug\WebAPI.dll
 C:\Temp\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
-C:\Temp\WebAPI\WebAPI\bin\AutoMapper.dll
-C:\Temp\WebAPI\WebAPI\bin\AutoMapper.xml
-C:\Temp\WebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache

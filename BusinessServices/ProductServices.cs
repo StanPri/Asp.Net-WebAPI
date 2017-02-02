@@ -1,10 +1,10 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using System.Transactions;
-using AutoMapper;
-using BusinessEntities;
 using DataModel;
 using DataModel.UnitOfWork;
+using System.Transactions;
+using BusinessEntities;
+using AutoMapper;
 
 namespace BusinessServices
 {
@@ -33,8 +33,13 @@ namespace BusinessServices
             var product = _unitOfWork.ProductRepository.GetByID(productId);
             if (product != null)
             {
-                Mapper.CreateMap <Product, ProductEntity > ();
-                var productModel = Mapper.Map < Product, ProductEntity > (product);
+                var config = new MapperConfiguration(cfg => {
+                    cfg.CreateMap<Product, ProductEntity>();
+                });
+
+                IMapper mapper = config.CreateMapper();
+                var source = new Product();
+                var productModel = Mapper.Map < Product, ProductEntity > (source);
                 return productModel;
             }
             return null;
@@ -49,8 +54,13 @@ namespace BusinessServices
             var products = _unitOfWork.ProductRepository.GetAll().ToList();
             if (products.Any())
             {
-                Mapper.CreateMap < Product, ProductEntity > ();
-                var productsModel = Mapper.Map < List < Product >, List < ProductEntity >> (products);
+                var config = new MapperConfiguration(cfg => {
+                    cfg.CreateMap<List<Product>, List<ProductEntity>>();
+                });
+
+                IMapper mapper = config.CreateMapper();
+                var source = new List<Product>();
+                var productsModel = Mapper.Map < List < Product >, List < ProductEntity >> (source);
                 return productsModel;
             }
             return null;

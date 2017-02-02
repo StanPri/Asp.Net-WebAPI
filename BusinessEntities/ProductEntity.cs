@@ -4,8 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-public class ProductEntity
+namespace BusinessEntities
 {
-    public int ProductId { get; set; }
-    public string ProductName { get; set; }
+    public class ProductEntity
+    {
+        public int ProductId { get; set; }
+        public string ProductName { get; set; }
+    }
 }

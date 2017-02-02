@@ -5,6 +5,5 @@ C:\Temp\WebAPI\DataModel\bin\Debug\EntityFramework.dll
 C:\Temp\WebAPI\DataModel\bin\Debug\EntityFramework.SqlServer.dll
 C:\Temp\WebAPI\DataModel\bin\Debug\EntityFramework.xml
 C:\Temp\WebAPI\DataModel\bin\Debug\EntityFramework.SqlServer.xml
-C:\Temp\WebAPI\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
 C:\Temp\WebAPI\DataModel\obj\Debug\DataModel.dll
 C:\Temp\WebAPI\DataModel\obj\Debug\DataModel.pdb

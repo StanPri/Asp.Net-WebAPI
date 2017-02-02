@@ -1,1 +1,13 @@
+C:\Temp\WebAPI\BusinessServices\bin\Debug\BusinessServices.dll
+C:\Temp\WebAPI\BusinessServices\bin\Debug\BusinessServices.pdb
+C:\Temp\WebAPI\BusinessServices\bin\Debug\AutoMapper.dll
+C:\Temp\WebAPI\BusinessServices\bin\Debug\BusinessEntities.dll
+C:\Temp\WebAPI\BusinessServices\bin\Debug\DataModel.dll
+C:\Temp\WebAPI\BusinessServices\bin\Debug\EntityFramework.dll
+C:\Temp\WebAPI\BusinessServices\bin\Debug\BusinessEntities.pdb
+C:\Temp\WebAPI\BusinessServices\bin\Debug\DataModel.pdb
+C:\Temp\WebAPI\BusinessServices\bin\Debug\AutoMapper.xml
+C:\Temp\WebAPI\BusinessServices\bin\Debug\EntityFramework.xml
 C:\Temp\WebAPI\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
+C:\Temp\WebAPI\BusinessServices\obj\Debug\BusinessServices.dll
+C:\Temp\WebAPI\BusinessServices\obj\Debug\BusinessServices.pdb
