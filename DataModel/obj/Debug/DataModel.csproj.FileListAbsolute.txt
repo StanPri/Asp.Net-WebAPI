@@ -1,0 +1,12 @@
+C:\Temp\WebAPI\DataModel\bin\Debug\DataModel.dll.config
+C:\Temp\WebAPI\DataModel\bin\Debug\DataModel.dll
+C:\Temp\WebAPI\DataModel\bin\Debug\DataModel.pdb
+C:\Temp\WebAPI\DataModel\bin\Debug\DataModel.dll.CodeAnalysisLog.xml
+C:\Temp\WebAPI\DataModel\bin\Debug\DataModel.dll.lastcodeanalysissucceeded
+C:\Temp\WebAPI\DataModel\bin\Debug\EntityFramework.dll
+C:\Temp\WebAPI\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Temp\WebAPI\DataModel\bin\Debug\EntityFramework.xml
+C:\Temp\WebAPI\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Temp\WebAPI\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+C:\Temp\WebAPI\DataModel\obj\Debug\DataModel.dll
+C:\Temp\WebAPI\DataModel\obj\Debug\DataModel.pdb
