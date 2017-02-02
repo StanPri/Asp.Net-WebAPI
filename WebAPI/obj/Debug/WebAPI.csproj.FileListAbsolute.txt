@@ -74,5 +74,6 @@ C:\Temp\WebAPI\WebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Temp\WebAPI\WebAPI\bin\System.Web.Http.Owin.xml
 C:\Temp\WebAPI\WebAPI\obj\Debug\WebAPI.dll
 C:\Temp\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
-C:\Temp\WebAPI\WebAPI\bin\WebAPI.dll.CodeAnalysisLog.xml
-C:\Temp\WebAPI\WebAPI\bin\WebAPI.dll.lastcodeanalysissucceeded
+C:\Temp\WebAPI\WebAPI\bin\AutoMapper.dll
+C:\Temp\WebAPI\WebAPI\bin\AutoMapper.xml
+C:\Temp\WebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
