@@ -83,3 +83,5 @@ C:\Temp\WebAPI\WebAPI\bin\DataModel.pdb
 C:\Temp\WebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
 C:\Temp\WebAPI\WebAPI\obj\Debug\WebAPI.dll
 C:\Temp\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
+C:\Temp\WebAPI\WebAPI\bin\WebActivatorEx.dll
+C:\Temp\WebAPI\WebAPI\bin\Swashbuckle.Core.dll
