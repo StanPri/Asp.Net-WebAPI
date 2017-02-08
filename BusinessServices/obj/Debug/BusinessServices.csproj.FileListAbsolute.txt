@@ -11,14 +11,3 @@ C:\Temp\WebAPI\BusinessServices\bin\Debug\EntityFramework.xml
 C:\Temp\WebAPI\BusinessServices\obj\Debug\BusinessServices.csprojResolveAssemblyReference.cache
 C:\Temp\WebAPI\BusinessServices\obj\Debug\BusinessServices.dll
 C:\Temp\WebAPI\BusinessServices\obj\Debug\BusinessServices.pdb
-C:\Temp\WebAPI\BusinessServices\bin\Debug\WebActivatorEx.dll
-C:\Temp\WebAPI\BusinessServices\bin\Debug\Swashbuckle.Core.dll
-C:\Temp\WebAPI\BusinessServices\bin\Debug\System.Web.Http.WebHost.dll
-C:\Temp\WebAPI\BusinessServices\bin\Debug\System.Web.Http.dll
-C:\Temp\WebAPI\BusinessServices\bin\Debug\Microsoft.Web.Infrastructure.dll
-C:\Temp\WebAPI\BusinessServices\bin\Debug\Newtonsoft.Json.dll
-C:\Temp\WebAPI\BusinessServices\bin\Debug\System.Net.Http.Formatting.dll
-C:\Temp\WebAPI\BusinessServices\bin\Debug\System.Web.Http.WebHost.xml
-C:\Temp\WebAPI\BusinessServices\bin\Debug\System.Web.Http.xml
-C:\Temp\WebAPI\BusinessServices\bin\Debug\Newtonsoft.Json.xml
-C:\Temp\WebAPI\BusinessServices\bin\Debug\System.Net.Http.Formatting.xml

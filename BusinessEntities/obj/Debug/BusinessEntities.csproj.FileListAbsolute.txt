@@ -1,10 +1,7 @@
 C:\Temp\WebAPI\BusinessEntities\bin\Debug\BusinessEntities.dll
 C:\Temp\WebAPI\BusinessEntities\bin\Debug\BusinessEntities.pdb
-C:\Temp\WebAPI\BusinessEntities\obj\Debug\BusinessEntities.dll
-C:\Temp\WebAPI\BusinessEntities\obj\Debug\BusinessEntities.pdb
 C:\Temp\WebAPI\BusinessEntities\bin\Debug\Microsoft.Web.Infrastructure.dll
 C:\Temp\WebAPI\BusinessEntities\bin\Debug\Newtonsoft.Json.dll
-C:\Temp\WebAPI\BusinessEntities\bin\Debug\Swashbuckle.Core.dll
 C:\Temp\WebAPI\BusinessEntities\bin\Debug\System.Net.Http.Formatting.dll
 C:\Temp\WebAPI\BusinessEntities\bin\Debug\System.Web.Http.dll
 C:\Temp\WebAPI\BusinessEntities\bin\Debug\System.Web.Http.WebHost.dll
@@ -14,3 +11,5 @@ C:\Temp\WebAPI\BusinessEntities\bin\Debug\System.Net.Http.Formatting.xml
 C:\Temp\WebAPI\BusinessEntities\bin\Debug\System.Web.Http.xml
 C:\Temp\WebAPI\BusinessEntities\bin\Debug\System.Web.Http.WebHost.xml
 C:\Temp\WebAPI\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+C:\Temp\WebAPI\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Temp\WebAPI\BusinessEntities\obj\Debug\BusinessEntities.pdb
